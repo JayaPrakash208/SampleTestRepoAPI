@@ -14,6 +14,9 @@ public class Main {
             System.out.println("i = " + i);
             // New Changes added to print the square of i
             System.out.println("i squared = " + (i * i));
+            //Change two
+            System.out.println("i cubed = " + (i * i * i));
         }
+
     }
 }
